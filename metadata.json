@@ -1,0 +1,6 @@
+{
+  "name": "Echo",
+  "description": "Companion app for itel ISW-O23 Storm, P55 & Buds Neo 3",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
